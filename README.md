@@ -1,32 +1,35 @@
-# airbnbseattle_explore
+# airbnbseattle_explore- Udacity Project
 
 # Table of Contents
-# Installation
-# Project Motivation
-# File Descriptions
-# Results
-# Acknowledgements
+## Installation
+## Project Motivation
+## File Descriptions
+## Results
+## Acknowledgements
 
 
 # Installation
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
 # Project Motivation
-For this project, I was interested in using the Seattle Airbnb Data from 2016provided by kaggle to better understand:
+For this project, I will in using the Seattle Airbnb Data from kaggle to answer three below questions
 
-When is the best time to visit Seattle?
-Is the Airbnb in Seattle occupied by some big host with many listings, or it's more like small business?
-Is the type of house impacting the price?
+   1.When is the busy season in seattle and what is the cheapest time of the year to travel to seattle?
+   2.Is there any organizations or big host that dominate the airbnb market?
+   3.Is there any correlation between price and customer experience, which price range have the best satisfaction?
+
 # File Descriptions
+
 Seattle_Airbnb_Data (folder)
 
 This contains the source files for this project. The following Airbnb activity is included in this Seattle dataset:
 Listings, including full descriptions and average review score
 Reviews, including unique id for each reviewer and detailed comments
 Calendar, including listing id and the price and availability for that day
-Project_1_Seattle (Jupyter Source File)
 
+Seattleairbnb (Jupyter Source File)
 This is the Jupyter notebook conducts all the analysis
+
 # Results
 The main findings of the code can be found at the post available here.
 
