@@ -3,7 +3,8 @@
 
 
 ## Installation
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
+no necessary libraries to install here
+
 
 ## Project Motivation
 For this project, I will in using the Seattle Airbnb Data from kaggle to answer three below questions
