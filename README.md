@@ -18,15 +18,15 @@ For this project, I will in using the Seattle Airbnb Data from kaggle to answer 
 
 ## File Descriptions
 
-- Seattle_Airbnb_Data (folder)
+- Airbnb_Data (folder)
 
 This contains the source files for this project.
 
-The following Airbnb activity is included in this Seattle dataset:
+The following Airbnb features is included in this Seattle dataset:
 
-Listings, including full descriptions and average review score
-Reviews, including unique id for each reviewer and detailed comments
-Calendar, including listing id and the price and availability for that day
+    - Listings, including full descriptions and average review score
+    - Reviews, including unique id for each reviewer and detailed comments
+    - Calendar, including listing id and the price and availability for that day
 
 - Seattleairbnb (Jupyter Source File)
 This is the Jupyter notebook conducts all the analysis
