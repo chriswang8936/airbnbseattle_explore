@@ -32,7 +32,8 @@ Calendar, including listing id and the price and availability for that day
 This is the Jupyter notebook conducts all the analysis
 
 ## Results
-The main findings of the code can be found at the post available here.
+
+please refer to the plot link below for all the findings and conclusions
 
 ## Acknowledgements
 The raw data source comes from kaggle.
