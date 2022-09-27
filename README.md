@@ -33,7 +33,7 @@ This is the Jupyter notebook conducts all the analysis
 
 ## Results
 
-please refer to the plot link below for all the findings and conclusions
+please refer to the below [link](https://medium.com/@chris89_73696/choose-your-own-airbnb-experience-in-seattle-581079e5c8bb) for all the findings and conclusions
 
 ## Acknowledgements
 The raw data source comes from kaggle.
